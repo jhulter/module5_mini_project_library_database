@@ -1,1 +1,3 @@
 # module5_mini_project_library_database
+
+I've included all the relevant files needed to successfully run our library database system. You can run it by downloading all the files. Then through MySQL workbench you can create a database called "library" then open the lib_database_creation_script.sql file and run it. You now have a database connected to the file. You can populate the database by going through each menu option when you run the program. It's important, however, to remember that you will need to do it in the correct order. You'll have to add authors, genres, and users before you add books or check out books since you will need that info to fill out the required fields when borrowing or adding books.
